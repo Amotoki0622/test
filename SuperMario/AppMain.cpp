@@ -25,6 +25,8 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
 		DrawCircle(320, 240, 15, GetColor(255, 255, 255), TRUE);
 		int a;
 		int b;
+
+		int aaa;
 		ScreenFlip();
 
 	}
